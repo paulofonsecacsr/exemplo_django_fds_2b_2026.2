@@ -1,0 +1,7 @@
+# Arquivo para colocar bibliotecas;
+# Ex: Django, Selenium;
+
+django
+selenium
+webdriver-manager
+
