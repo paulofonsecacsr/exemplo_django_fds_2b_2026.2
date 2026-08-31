@@ -2,6 +2,7 @@ from django.db import models
 
 # Create your models here.
 
+
 #  https://dontpad.com/cc_fds_2b_2026.2
 # arquivo models.py
 
